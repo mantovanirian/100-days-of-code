@@ -16,3 +16,10 @@
 
 **Link to work:** [Draggable View](https://github.com/mantovanirian/DraggableView/commit/4716489d4f42ce1ecc6caf21e4a619acff576027)
 
+### Day 2: March 12, 2019
+
+**Today's Progress**: Extract separate view for draggable, make it reusable
+
+**Thoughts:** This draggable view could be a framewokr if possible, but need to make options
+
+**Link to work:** [Draggable View](https://github.com/mantovanirian/DraggableView/commit/960f4d21ac3bed890746591626142ef3834bcdb5)
