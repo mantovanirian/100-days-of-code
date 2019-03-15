@@ -25,10 +25,19 @@
 **Link to work:** [Draggable View](https://github.com/mantovanirian/DraggableView/commit/960f4d21ac3bed890746591626142ef3834bcdb5)
 
 
-### Day 3: March 13, 2019
+### Day 4: March 14, 2019
 
-**Today's Progress**: simplify calculation in viewmodel by using Point instead of float, also create folders based on clean code architecture
+**Today's Progress**: add ibinspectable for deciding which edge should the view snapped
 
-**Thoughts:**  Need to think about options so the draggable rule could be more flexible
+**Thoughts:**  Adding UI Tests will be sick!
 
-**Link to work:** [Draggable View](https://github.com/mantovanirian/DraggableView/commit/ad4b3c4be44af44694e2b7350bfb6bc62ec7ccbc)
+**Link to work:** [Draggable View](https://github.com/mantovanirian/DraggableView/commit/cca632dd267b1bdfcbf2d2bb3f19f36da1f7f184)
+
+
+### Day 5: March 13, 2019
+
+**Today's Progress**: Adding UITest, finding new class that I never use before: CGVector
+
+**Thoughts:**  Create a framework, if it is possible
+
+**Link to work:** [Draggable View](https://github.com/mantovanirian/DraggableView/commit/e13ad5e4fcfa45c2dffad54907adc87db1b33470)
