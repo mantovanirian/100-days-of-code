@@ -25,7 +25,7 @@
 **Link to work:** [Draggable View](https://github.com/mantovanirian/DraggableView/commit/960f4d21ac3bed890746591626142ef3834bcdb5)
 
 
-### Day 4: March 14, 2019
+### Day 4: March 13, 2019
 
 **Today's Progress**: add ibinspectable for deciding which edge should the view snapped
 
@@ -34,7 +34,7 @@
 **Link to work:** [Draggable View](https://github.com/mantovanirian/DraggableView/commit/cca632dd267b1bdfcbf2d2bb3f19f36da1f7f184)
 
 
-### Day 5: March 13, 2019
+### Day 5: March 14, 2019
 
 **Today's Progress**: Adding UITest, finding new class that I never use before: CGVector
 
@@ -42,7 +42,7 @@
 
 **Link to work:** [Draggable View](https://github.com/mantovanirian/DraggableView/commit/e13ad5e4fcfa45c2dffad54907adc87db1b33470)
 
-### Day 6: March 13, 2019
+### Day 6: March 15, 2019
 
 **Today's Progress**: Creating framework is not possible without provisioning, change draggableview to public class
 
