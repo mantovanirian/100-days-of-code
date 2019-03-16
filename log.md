@@ -41,3 +41,12 @@
 **Thoughts:**  Create a framework, if it is possible
 
 **Link to work:** [Draggable View](https://github.com/mantovanirian/DraggableView/commit/e13ad5e4fcfa45c2dffad54907adc87db1b33470)
+
+### Day 6: March 13, 2019
+
+**Today's Progress**: Creating framework is not possible without provisioning, change draggableview to public class
+
+**Thoughts:**  Let's find a new project to do, but before leave this project, add readme, and etc, etc
+
+**Link to work:** [Draggable View](https://github.com/mantovanirian/DraggableView/commit/231cc7f072b43cffbee1f625e0969f42cbae2969)
+
