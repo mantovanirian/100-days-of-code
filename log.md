@@ -24,6 +24,14 @@
 
 **Link to work:** [Draggable View](https://github.com/mantovanirian/DraggableView/commit/960f4d21ac3bed890746591626142ef3834bcdb5)
 
+### Day 3: March 13, 2019
+
+**Today's Progress**: simplify calculation in viewmodel by using Point instead of float, also create folders based on clean code architecture, and avoiding primitive type
+
+**Thoughts:**  Need to think about options so the draggable rule could be more flexible
+
+**Link to work:** [Draggable View](https://github.com/mantovanirian/DraggableView/commit/ad4b3c4be44af44694e2b7350bfb6bc62ec7ccbc)
+
 
 ### Day 4: March 13, 2019
 
