@@ -58,3 +58,17 @@
 
 **Link to work:** [Draggable View](https://github.com/mantovanirian/DraggableView/commit/231cc7f072b43cffbee1f625e0969f42cbae2969)
 
+
+### Day 7: March 17, 2019
+
+**Today's Progress**: Playing with Vapor
+
+**Thoughts:**  I'd like to have clean code bot
+
+**Link to work:** [Draggable View](https://github.com/mantovanirian/hello-vapor)
+
+### Day 8: March 18, 2019
+
+**Today's Progress**: Trying the newest interview assesment in Vidio
+
+**Thoughts:**  This test is good. It covers all that we need, including our architecture, will try to finish this assesment tomorrow
